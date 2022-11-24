@@ -2,7 +2,7 @@
 
 This work presents M5 accuracy competition: Results, findings, and conclusions. There are three main components:
 
-1.   Analyzing data sets to summarize their main characteristics, as presented in **EDA.ipynb**.
+1.   Analyzing data sets to summarize their main characteristics, as presented in **eda.ipynb**.
 2.   Selecting, manipulating, and transforming raw data into time-series features, as presented in **preprocess.ipynb**.
 3.   Forecasting time series with Gradient boosting models, as presented in **model.ipynb**.
 
